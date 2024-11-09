@@ -65,7 +65,3 @@ Une fois l'application lancée, ouvrez `http://localhost:3000` dans votre naviga
   - Arrêter l'application qui utilise ce port.
   - Modifier le numéro de port dans le fichier `server.js`, puis relancer l'application.
 - **Node.js non installé** : Suivez les instructions de la section Prérequis pour installer Node.js.
-
----
-
-Voilà ! Ce fichier `README.md` devrait vous aider à guider l'utilisateur pour lancer votre application Node.js sur le port 3000.
