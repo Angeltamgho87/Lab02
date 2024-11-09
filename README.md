@@ -16,11 +16,17 @@ Assurez-vous que Node.js est installé sur votre machine.
 
 ## Installation
 
-1. Accédez au dossier du projet :
+1. Clonez ce dépôt :
+
+   ```bash
+   git clone https://github.com/Angeltamgho87/Lab02
+   ```
+
+2. Accédez au dossier du projet :
    ```bash
    cd votre-repo
    ```
-2. Installez les dépendances :
+3. Installez les dépendances :
    ```bash
    npm install
    ```
